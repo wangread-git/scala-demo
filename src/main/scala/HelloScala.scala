@@ -3,7 +3,7 @@
  *
  * first demo
  */
-class HelloScala {
+object HelloScala {
   def main(args: Array[String]) {
     printf("hello scala!")
   }
